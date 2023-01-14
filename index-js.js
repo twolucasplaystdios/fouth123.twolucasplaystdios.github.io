@@ -1,9 +1,9 @@
 function barc(){
-    alert('aa');
+    alert('點"確定"');
     location.href() == 'https://twolucasplaystdios.github.io/bogoarchive.github.io/';
 }
 
 function homewk(){
-    alert('aa');
+    alert('點"確定"');
     location.href() == 'https://twolucasplaystdios.github.io/twolucasplaystdios-homework.github.io/';
 }
