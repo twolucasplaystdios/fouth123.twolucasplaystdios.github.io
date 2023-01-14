@@ -1,10 +1,12 @@
-button{
+input{
     transition-duration: 0.6s;
     color: blueviolet;
     background-color: red;
 }
 
-button:hover {
+input:hover {
     color: red;
     background-color: blueviolet;
 }
+
+
