@@ -1,9 +1,18 @@
 var title = document.getElementById("title");
-var sumbit = document.getElementById("submitTEXT");
+var btn = document.getElementById("btn");
 var content = document.getElementById("content");
+var list = document.getElementById("list");
 
 
-sumbit.addEventListener('click', function(){
-    console.log(title.value)
-    console.log(content.value)
-})
+if(btn){
+    btn.addEventListener( "click", function(){
+        list.innerHTML = list.innerHTML + `
+        <div id="list">
+            <div class="article">
+                <h2>${title.value}</h2>
+                <p>${content.value}</p>
+            </div>
+        </div>
+        `;
+    } );
+}
