@@ -6,8 +6,8 @@ input{
 }
 
 input:hover {
-    color: red;
-    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    background-color: rgb(226, 159, 151);
     font-size: 150px;
 }
 
