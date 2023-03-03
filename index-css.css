@@ -18,5 +18,6 @@ body {
 
 h1 {
     background-color: rgb(255, 163, 120);
-    font-weight: 10000;
+    color: black;
+    font-weight: 1000;
 }
