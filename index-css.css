@@ -17,5 +17,6 @@ body {
 }
 
 h1 {
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(255, 163, 120);
+    font-weight: 10000;
 }
