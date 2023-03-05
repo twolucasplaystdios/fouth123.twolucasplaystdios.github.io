@@ -24,6 +24,6 @@ h1 {
     font-weight: 1000;
 }
 
-table, th, td{
+table, th, tr, td{
     border: 1000px rgb(224, 106, 92);
 }
