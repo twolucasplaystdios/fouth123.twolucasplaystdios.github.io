@@ -1,0 +1,29 @@
+input{
+    transition-duration: 0.6s;
+    color: rgb(226, 159, 151);
+    background-color: rgb(255, 255, 255);
+    font-size:  150px;
+}
+
+input:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(226, 159, 151);
+    font-size: 150px;
+}
+
+body {
+    background-color: rosybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+h1 {
+    background-color: rgb(255, 163, 120);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+}
+
+table, th, tr, td{
+    border: 1000px rgb(73, 60, 58);
+}
